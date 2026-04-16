@@ -654,7 +654,7 @@ export default function App() {
                   <h1 className="max-w-3xl text-4xl font-semibold leading-tight text-white sm:text-5xl md:text-6xl">
                     Hi, I&apos;m <span className="bg-gradient-to-r from-blue-400 via-indigo-300 to-violet-400 bg-clip-text text-transparent">Vishal Badgujar</span>
                   </h1>
-                  <p className="mt-4 text-xl font-medium text-zinc-200 md:text-2xl">"Building scalable backend systems and AI-powered applications that reduce manual effort and improve performance."
+                  <p className="mt-4 text-xl font-medium text-zinc-200 md:text-2xl">"Building scalable backend systems and AI-powered applications that reduce manual effort and improve performance."</p>
                   <div className="mt-8 flex flex-wrap items-center gap-3">
                     <ContactHeroButton />
                     <Button asChild variant="outline">
