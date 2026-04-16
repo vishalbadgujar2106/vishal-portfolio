@@ -609,7 +609,7 @@ export default function App() {
     title: "DOGCAT Lifestyle Pet Care Website",
     source: "IJIRMPS · Published May–June 2023",
     citation: 'Badgujar, Vishal, et al. “DOGCAT Lifestyle Pet Care Website,” IJIRMPS, Vol. 11, Issue 3, May–June 2023. Paper ID: 230214.',
-    link: "#",
+   link: "/research_certificate.pdf",
   };
 
   return (
