@@ -499,7 +499,7 @@ export default function App() {
     phone: "(312) 774-6234",
     email: "vishalbadgujar2106@gmail.com",
     linkedin: "https://www.linkedin.com/in/vishal-k-badgujar-b8115a200/",
-    github: "https://github.com/",
+    github: "https://github.com/vishalbadgujar2106?tab=repositories",
     availability: "Open to Software Engineer / Software Developer roles",
   };
 
